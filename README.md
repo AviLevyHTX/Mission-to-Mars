@@ -16,6 +16,11 @@
 13. webdriver-manager
 
 
+**Unable to complete challenge since the link to the website wasn't working and I couldn't access the photos
+![Mars Website error.PNG](https://github.com/AviLevyHTX/Mission-to-Mars/blob/main/Mars%20Website%20error.PNG)
+
+
+
 ## Objective
 After assisting Robin to obtain information about Mars by scraping the data, compiling it, and then displaying it, the next task is to adjust the web app to collect images of Mars's four hemispheres. Similar to before, the images of the hemispheres will be scraped from the site and then eventually displayed using a web application.
 
